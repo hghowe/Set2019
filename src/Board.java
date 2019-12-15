@@ -121,10 +121,7 @@ public class Board {
 	 // TODO: 
 	 // 1: write the remove3Cards() method signature. (i.e., return type, method name, parameter list)
 	 //    MAKE SURE THAT YOU COMMUNICATE THIS WITH THE REST OF YOUR TEAM.
-	 // 2: go to BoardTest.java and write a test to make sure that this is
-	 //    working - Look at the test for "testGetNumCardsOnBoardAndDeal3" as an
-	 //    example of what to write here.
-	 // 3: write the method and make sure that it passes the test.
+	 // 2: write the method and make sure that it passes the test.
 	
 	/**
 	 * getNumCardsOnBoard
